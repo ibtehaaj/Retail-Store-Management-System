@@ -1,0 +1,13 @@
+D:\RSMS\Retail Management System\Retail Management System\bin\Debug\Retail Management System.exe.config
+D:\RSMS\Retail Management System\Retail Management System\bin\Debug\Retail Management System.exe
+D:\RSMS\Retail Management System\Retail Management System\bin\Debug\Retail Management System.pdb
+D:\RSMS\Retail Management System\Retail Management System\obj\Debug\Retail Management System.csprojResolveAssemblyReference.cache
+D:\RSMS\Retail Management System\Retail Management System\obj\Debug\Retail_Management_System.Form1.resources
+D:\RSMS\Retail Management System\Retail Management System\obj\Debug\Retail_Management_System.Properties.Resources.resources
+D:\RSMS\Retail Management System\Retail Management System\obj\Debug\Retail Management System.csproj.GenerateResource.Cache
+D:\RSMS\Retail Management System\Retail Management System\obj\Debug\Retail Management System.exe
+D:\RSMS\Retail Management System\Retail Management System\obj\Debug\Retail Management System.pdb
+D:\RSMS\Retail Management System\Retail Management System\obj\Debug\Retail_Management_System.Dashboard.resources
+D:\RSMS\Retail Management System\Retail Management System\obj\Debug\Retail_Management_System.Stock.resources
+D:\RSMS\Retail Management System\Retail Management System\bin\Debug\FileHelpers.dll
+D:\RSMS\Retail Management System\Retail Management System\bin\Debug\FileHelpers.xml
